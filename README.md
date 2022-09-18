@@ -1,4 +1,4 @@
-初回実行コマンド
+初回実行コマンド ※ルートフォルダで行う
 1) docker-compose build
 2) docker-compose run --rm front sh -c 'yarn create react-app . --template typescript'
 3) docker-compose run --rm front sh -c 'yarn add eslint --dev'
